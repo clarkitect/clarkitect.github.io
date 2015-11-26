@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://clarkitect.github.io
+title: blame the clarkitect
+tagline: A clever review of poor decisions
+description: You know how, sometimes, a mediocre software professional will decide to share opinions in a public forum?<br /><br />This is one of those times.
+paginate: 5
